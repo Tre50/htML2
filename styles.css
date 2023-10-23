@@ -1,0 +1,28 @@
+body {
+    background-color: yellow; 
+}
+#things{
+    font:caption;
+    font-weight: bolder;
+}
+h1 {
+
+    color: magenta;
+}
+h3 { font-size: larger;
+    font-style: italic;
+    font-style: oblique;
+}
+p { font-size:larger;
+    margin-left: 25%;
+    font-family: cursive;
+}
+h2 {font-weight: 700;
+    color: red;
+}
+
+#email{
+       font-family: cursive;
+       font-family: fantasy;
+       
+}
